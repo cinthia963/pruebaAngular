@@ -1,0 +1,59 @@
+
+.nav{
+    background: #FFFFFF 0% 0% no-repeat padding-box !important;
+}
+.m-logo{
+    width: 156px;
+    height: 54px;
+    background: transparent url('src/img/Artwork%209%20(2).svg') 0% 0% no-repeat padding-box !important;
+    opacity: 1 ;
+  
+}
+.m-logo a {
+    text-decoration: none;
+    background-color: transparent;
+}
+
+
+ .menu{
+  padding-left: 20px !important;
+  justify-content: center !important;
+
+
+}
+ .menu li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.menu li a {
+    display: block;
+    padding: .5rem 1rem;
+    text-decoration: none;
+    background-color: transparent;
+    color: #14375F;
+}
+/*.collapse .action{
+    display: flex;
+    padding-right: 50px;
+    margin-right: 70px;
+    font-weight: 600;
+    font-size: 14px;
+    height: 55px;
+    flex-flow: row wrap;
+    align-items: center;
+
+}*/
+ 
+.img-logo{
+background: url(src\img\Avatar.png) !important;
+width: 38px !important;
+height: 38px !important;
+border-radius: 60px !important ;
+border-color: transparent !important;
+border-style: groove !important;
+}
+
+.img-logo a {
+    text-decoration: none !important;
+    padding-left: 1rem;
+}

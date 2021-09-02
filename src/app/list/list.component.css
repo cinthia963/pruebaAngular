@@ -1,0 +1,96 @@
+.list-container{
+margin-top: 50px;
+ width: 100%;
+top: 148px;
+left: 67px;
+max-width: 1237px;
+height: 596px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: -4px 5px 8px #00000008;
+opacity: 1;
+
+
+}
+.list-items{
+width: 90%;
+padding-left: 30px;
+display: flex;
+flex-direction: row;
+}
+.validacion h4{
+height: 15px;
+text-align: left;
+font: normal normal normal 12px/15px Lato;
+letter-spacing: 0px;
+color: #B2B2B2;
+opacity: 1;
+padding-right: 30px;
+}
+.validacion .titule{
+    padding-right: 30px;
+    width: 200px;
+    height: 29px;
+    text-align: left;
+    font: normal normal bold 22px/26px Lato;
+    letter-spacing: 0px;
+    color: #14375F;
+    opacity: 1;
+    }
+    .validacion{
+        width: 35%;
+        padding-left: 30px;
+        box-shadow: -4px 5px 8px #00000010;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+    }
+
+.information-container h4{
+    margin-top: 35px;
+    width: 108px;
+height: 24px;
+text-align: left;
+font: normal normal bold 20px/24px Lato;
+letter-spacing: 0px;
+color: #14375F;
+opacity: 1;
+}
+.instruction p{
+width: 436px;
+height: 282px;
+text-align: left;
+font: normal normal normal 14px/17px Lato;
+letter-spacing: 0px;
+color: #14375F;
+opacity: 1;
+}
+.description{
+top: 577px;
+left: 402px;
+width: 556px;
+height: 18px;
+text-align: left;
+font: normal normal normal 15px/18px Lato;
+letter-spacing: 0px;
+color: #14375F;
+opacity: 1;
+}
+.example-margin{
+    margin-right: 6px;
+    margin-bottom: 5px;
+    padding-bottom: 8px;
+}
+.primary{
+background-color: rgb(28, 223, 44) !important;
+
+}
+ .items:hover{
+cursor: pointer;
+opacity: 1;
+background-color: #FFFFFF;
+color: black;
+
+}
+
+
+
+
+

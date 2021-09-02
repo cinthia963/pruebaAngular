@@ -1,0 +1,17 @@
+.container{
+padding-top: 25px !important;
+padding-bottom: 25px !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+box-shadow: -4px 5px 8px #00000008 !important;
+opacity: 1 !important;
+}
+.color {
+ background-color: beige;  
+border-color: #fff;
+ 
+}
+.color:hover{
+    background-color:#32f132!important;
+    border-color:#32f132!important;
+
+}
